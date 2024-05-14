@@ -1,0 +1,57 @@
+.container-fluid
+{
+    background-color: grey;
+    text-align: center;
+    color: white;
+}
+
+.nav
+{
+    background-color: rgb(46, 46, 46);
+    height: 50px;
+    align-items: center;
+    align-content: center;
+    color: white;
+}
+
+.btn.btn-light
+{
+    font-weight: 800;
+    background-color: gray;
+    height: 30px;
+}
+
+header
+{
+    font-size: 45px;
+    color: white;
+    height: 135px;
+    background-color: rgb(63, 63, 63);
+    text-align: center;
+}
+
+.container-fluid-2
+{
+    background-color: lightgray;
+}
+
+.container-fluid-4
+{
+    background-color: rgb(226, 226, 226);
+    text-align: center;
+}
+
+.nav-link.dropdown-toggle
+{
+    color: white;
+}
+
+.nav-link
+{
+    color: white;
+}
+
+html
+{
+    background-color: black;
+}
